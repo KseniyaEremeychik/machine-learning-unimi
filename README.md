@@ -4,3 +4,4 @@ This repository contains the implementation and analysis of a machine learning p
 Files in Repository:
 - Ridge Regression - Kseniya Yerameichyk.ipynb: Jupyter notebook containing the implementation of Ridge Regression model and data analysis.
 - ML Project report - Kseniya Yerameichyk.pdf: Report summarizing the methodology, results, and insights obtained from the project.
+- dataset.csv: Spotify Tracks Dataset obtained from Kaggle platform https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
